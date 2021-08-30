@@ -18,11 +18,10 @@ class _HakkindaState extends State<Hakkinda>
       body: new Container(
         color: Colors.green,
         height: 100,
-<<<<<<< HEAD
-        child:new Marquee(text: " Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 163301074 numaralı ALİ CAN YÜCEL tarafından 9 TEMMUZ 2021 günü yapılmıştır.",
-=======
-        child:new Marquee(text: "Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 163301074 numaralı ALİ CAN YÜCEL tarafından 30 Nisan 2021 günü yapılmıştır.",
->>>>>>> 707f5537e626f2e359d7185910adb9429784bb26
+
+        child:new Marquee(text: " Bu uygulama  ALİ CAN YÜCEL tarafından  yapılmıştır.",
+     
+
        scrollAxis:Axis.horizontal,),
       ),
     );
